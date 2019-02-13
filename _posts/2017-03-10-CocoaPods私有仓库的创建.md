@@ -3,7 +3,7 @@ layout:     post
 title:      CocoaPods私有仓库的创建
 subtitle:   继续带你创建 CocoaPods 私有有仓库
 date:       2017-03-10
-author:     BY
+author:     PilotLee
 header-img: img/post-bg-iWatch.jpg
 catalog: true
 tags:
@@ -101,8 +101,8 @@ Pod::Spec.new do |s|
   # s.dependency   = "AFNetworking" # 依赖库
   
   # User
-  s.author             = { "BY" => "qiubaiyingios@163.com" } # 作者信息
-  s.social_media_url   = "http://qiubaiying.github.io" # 个人主页
+  s.author             = { "PilotLee" => "crazyjolly@163.com" } # 作者信息
+  s.social_media_url   = "http://pilotlee.github.io" # 个人主页
 
 end
 ```

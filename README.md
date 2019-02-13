@@ -79,7 +79,7 @@ layout:     post
 title:      定时器 你真的会使用吗？
 subtitle:   iOS定时器详解
 date:       2016-12-13
-author:     BY
+author:     PilotLee
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
@@ -151,8 +151,8 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        title: "PilotLee Blog",
+        href: "https://pilotlee.github.io/"
     },
     {
         title: "Apple",
